@@ -1,3 +1,4 @@
+
 document.addEventListener("DOMContentLoaded", () => {
     const uploadButton = document.getElementById("upload-button");
     const videoFileInput = document.getElementById("video-file");
